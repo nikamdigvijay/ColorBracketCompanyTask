@@ -1,0 +1,6 @@
+framework module Pods_ColorBracketTechTask {
+  umbrella header "Pods-ColorBracketTechTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
